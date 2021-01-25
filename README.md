@@ -4,7 +4,7 @@
 
 Hello world, I'm Catherine and I'm a second year Master's student at Columbia
 
-![Propic](https://github.com/CLan2021/CLan2021.github.io/blob/main/IMG_2246.JPG)
+![Propic](IMG_2246.JPG)
 
 ## Research interests
 
