@@ -11,8 +11,6 @@ Hello world, I'm Catherine and I'm a second year Master's student at Columbia
 I study the Asian burying beetle, *Nicrophorus nepalensis*, specifically about their circadian rhythm and behavior under different photoperiod conditions. 
 This github page is a work in progress. 
 
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
