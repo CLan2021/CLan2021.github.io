@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+### Welcome to Catherine's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CLan2021/CLan2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello world, I'm Catherine and I'm a second year Master's student at Columbia
+
+![/home/catherine/hacks/CLan2021.github.io/IMG_2246.JPG](/home/catherine/hacks/CLan2021.github.io/IMG_2246.JPG)
+
+## What is this page?
+
+This github page is a work in progress. 
+
+
 
 ### Markdown
 
