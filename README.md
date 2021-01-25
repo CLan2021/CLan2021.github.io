@@ -1,13 +1,14 @@
-### Welcome to Catherine's GitHub Pages
+# Welcome to Catherine's GitHub Pages
 
 ## Introduction
 
 Hello world, I'm Catherine and I'm a second year Master's student at Columbia
 
-![https://github.com/CLan2021/CLan2021.github.io/blob/main/IMG_2246.JPG](https://github.com/CLan2021/CLan2021.github.io/blob/main/IMG_2246.JPG)
+![Propic](https://github.com/CLan2021/CLan2021.github.io/blob/main/IMG_2246.JPG)
 
-## What is this page?
+## Research interests
 
+I study the Asian burying beetle, *Nicrophorus nepalensis*, specifically about their circadian rhythm and behavior under different photoperiod conditions. 
 This github page is a work in progress. 
 
 
